@@ -2,7 +2,7 @@
 
 Northwestern University Libraries was awarded a grant from [the Association of Research Libraries Venture Fund](https://www.arl.org/news/arl-launches-venture-fund-to-support-research-and-development-in-member-libraries-proposals-due-february-28/) to develop a digital publishing toolkit for librarians who support open educational resources (OER) publishing on their campuses. This report documents the outcomes and future for our project, which we've named *Lantern*, available here: <https://github.com/nulib-oer/lantern>
 
-Lantern is prototype that applies *minimal computing* principles to the production, hosting, and maintenance of OER. At its core, Lantern is a script, template, and documentation that makes it easier to use [Pandoc](http://pandoc.org/) and [GitHub](https://github.com/) to produce and distribute open textbooks in multiple formats, such as HTML, PDF, EPUB, and DOCX. Lantern produces OER content in formats that make it easier to publish, preserve, and reuse by students, faculty, and librarians.
+Lantern is a prototype that applies *minimal computing* principles to the production, hosting, and maintenance of OER. At its core, Lantern is a script, template, and documentation that makes it easier to use [Pandoc](http://pandoc.org/) and [GitHub](https://github.com/) to produce and distribute open textbooks in multiple formats, such as HTML, PDF, EPUB, and DOCX. Lantern produces OER content in formats that make it easier to publish, preserve, and reuse by students, faculty, and librarians.
 
 ## Why did we create Lantern? 
 
@@ -16,9 +16,9 @@ Lantern approaches this problem in the following ways:
 
 -   **Non-proprietary:** Lantern teaches the value of non-proprietary plain text documents for accessibility and preservation.
 
--   **Portability:** Lantern can be used the web, in the form of a GitHub repository, or as part of a standalone production environment, where users can install and run the required programs on their own. 
+-   **Portable:** Lantern can be used on the web, in the form of a GitHub repository, or as part of a standalone production environment, where users can install and run the required programs on their own. 
 
--   **Free:** Lantern is distributed for free and under an open license. The first edition of Lantern is available on GitHub and assumes that the user has created a free GitHub account, but Lantern itself can be [downloaded as a .zip file](https://github.com/nulib-oer/lantern/archive/refs/heads/main.zip) and used without a GitHub account by anyone.
+-   **Free:** Lantern is distributed for free under an open license. The first edition of Lantern is available on GitHub and assumes that the user has created a free GitHub account, but Lantern itself can be [downloaded as a .zip file](https://github.com/nulib-oer/lantern/archive/refs/heads/main.zip) and used without a GitHub account by anyone.
 
 -   **Transferable skills:** We make no promises that Lantern will be available and usable forever. We do, however, believe that the skills and knowledge introduced in Lantern's workflow are applicable to a variety of web and digital projects.
 
