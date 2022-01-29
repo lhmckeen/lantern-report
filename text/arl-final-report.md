@@ -58,7 +58,7 @@ Upon completing an OER project with Lantern, users will have the files for a web
 
 We wanted to make sure that Lantern, as an idea, was worth developing further. We assembled a panel of six librarians at academic libraries around the country to test and review an early version of Lantern. Each librarian was paid a stipend to review the documentation, complete two tutorials, and discuss their experiences. Some quotes from our interviews:
 
-> \"You\'ve provided an environment in which librarians who are not programmers could experiment with using markdown. There\'s a lot that\'s unfamiliar, and I feel like what you\'ve done is to make it more accessible to people like me.\" -- Anita Walz, Assistant Director of Open Education, Virginia Tech University Libraries
+> \"You\'ve provided an environment in which librarians who are not programmers could experiment with using markdown. There\'s a lot that\'s unfamiliar, and I feel like what you\'ve done is to make it more accessible to people like me.\" - Anita Walz, Assistant Director of Open Education, Virginia Tech University Libraries
 >
 > "With Lantern, OER creation is made very simple. I could follow along and actually get a textbook produced." -Kathy Clark, Director, Phillips Library, Aurora University
 >
@@ -98,7 +98,7 @@ We are confident, however, that the publication outputs produced by Lantern can 
 
 We have three priorities for Lantern: (1) use Lantern to publish OER textbooks by Northwestern University authors, (2) extend Lantern to support more use cases, and (3) promote Lantern at academic librarian conferences.
 
-First, we are currently using Lantern on OER projects Northwestern University Libraries supports, developing and releasing new features as needed (such as full-text search). We began by migrating two OER projects from [Bookdown](https://bookdown.org/) to Lantern[^1]: [***Empirical Methods in Political Science: An Introduction***](https://emps.northwestern.pub/) by Jean Clipperton and ***Introduction to Material Science and Engineering*** by Kenneth Shull, Jonathan Emery, and Jacob Kelter.
+First, we are currently using Lantern on OER projects that Northwestern University Libraries supports, and developing and releasing new features as needed (such as full-text search). We began by migrating two OER projects from [Bookdown](https://bookdown.org/) to Lantern[^1]: [***Empirical Methods in Political Science: An Introduction***](https://emps.northwestern.pub/) by Jean Clipperton and ***Introduction to Material Science and Engineering*** by Kenneth Shull, Jonathan Emery, and Jacob Kelter.
 
 Second, we were thrilled to discover new use cases for Lantern from the Librarian Review Panel interviews, including:
 
